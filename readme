@@ -1,0 +1,2 @@
+This is code for Public New Mexico's tool to explore the fish stocking history of New Mexico waterways. 
+It's split into three files: global.r, ui.r and server.r.
