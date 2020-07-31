@@ -1,0 +1,21 @@
+species,water,fish_length_in,fish_lbs,fish_n,date,hatchery_id
+channel catfish,alto lake,18,160,96,07/02/2020,PVT
+channel catfish,bataan lake,18,525,315,07/02/2020,PVT
+channel catfish,blue hole park pond,18,160,96,07/02/2020,PVT
+channel catfish,navajo reservoir,18,160,96,07/02/2020,PVT
+northern largemouth bass,elephant butte lake,1.4,15,11836,07/01/2020,RL
+rio grande cutthroat trout,alto lake,10.5,70,168,06/30/2020,SS
+rio grande cutthroat trout,bataan lake,4.3,89,3177,06/30/2020,SS
+triploid rainbow trout,bataan lake,11.3,250,433,07/01/2020,LO
+triploid rainbow trout,blue hole park pond,9.7,885,2425,06/29/2020,RR
+triploid rainbow trout,brantley dam,9.9,116,299,07/01/2020,RR
+rio grande cutthroat trout,brantley dam,4.3,57,2006,06/24/2020,SS
+rio grande cutthroat trout,bataan lake,13.1,645,800,06/24/2020,SS
+triploid rainbow trout,alto lake,10.4,500,1105,06/22/2020,LO
+triploid rainbow trout,gilita creek,10.9,130,248,06/16/2020,RL
+gila trout,gilita creek,15.3,121,94,06/11/2020,GW
+northern largemouth bass,brantley dam,0.2,0,62285,06/08/2020,RL
+tiger muskies,gilita creek,4.5,4,300,06/12/2020,PVT
+tiger muskies,brantley dam,4.5,10,700,06/12/2020,PVT
+kokanee salmon,navajo reservoir,0.8,48,209679,01/30/2020,LO
+kokanee salmon,navajo reservoir,0.9,25,100693,01/31/2020,LO
