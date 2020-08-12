@@ -10,7 +10,8 @@ ui <- fluidPage(theme = shinytheme("sandstone"),
 			h4("A free tool for anglers courtesy of", tags$a(href="http://publicnewmexico.com/", "Public New Mexico", target="_blank")),
 			br(),
 			p("Use this interface to look up a water you want to fish and see what has been stocked in it recently."),
-			p(strong("To begin: "), "Select a waterway in the 'Choose water' box. You can use the 'Choose fish' box to refine your selection if needed.")
+			p(strong("Last update"),": 12 August 2020."),
+			p(strong("To begin: "), "Select a water in the 'Choose water' box. You can use the 'Choose fish' box to refine your selection. If a water is not shown, that means the state has not stocked it in the past 12 months.")
 			)#close column
 		),#close fluidRow
 
@@ -34,7 +35,7 @@ ui <- fluidPage(theme = shinytheme("sandstone"),
 	hr(),
 	fluidRow(
 		column(11, 
-			p(tags$small("This tool is updated from New Mexico Department of Game & Fish data when they become available, usually twice a month. It is written in R using the Shiny framework, and is maintained by John R. Roby. You can see and fork the code on GitHub.", br()," Questions? Email PublicNewMexico 'at' gmail.com."))
+			p(tags$small("This tool is updated from New Mexico Department of Game & Fish data when they become available, usually twice a month. It is written in R using the Shiny framework, and is maintained by John R. Roby. You can", tags$a(href="https://github.com/JohnRRoby/nm-fish-finder", "see and fork the code on GitHub.", target="_blank"), br(), "Questions? Email PublicNewMexico 'at' gmail.com."))
 			) #close column
 		) #close fluidRow
 )#close fluidPage
